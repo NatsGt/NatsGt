@@ -7,12 +7,12 @@ You can get to know me better [here](https://www.linkedin.com/in/natalia-rodas-9
 <!--
 **NatsGt/NatsGt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 I’m currently studying Software Design ITU Copenhagen.
-- 🤩 I'm learning Java.
-- 👩‍💻 I'm working on a project based on React and Typescript. 
+- 🌱 I just finished an MSc. Software Design ITU Copenhagen.
+- 🤩 I'm learning AWS.
+- 👩‍💻 I'm working on a project based on React, Typescript, and Python.
 - 📫 How to reach me: nataliarodas7858@gmail.com or my [LinkedIn](https://www.linkedin.com/in/natalia-rodas-926523134/)
-- 😄 Pronouns: Fun, hopeless optimist, dreamer.
-- :princess: Love playing with CSS
+- 😄 Pronouns: Fun, hopeless optimist, team player.
+- :princess: Love a good challenge
 - ⚡ Fun fact: I always carry a book with me 🤓
 
 
