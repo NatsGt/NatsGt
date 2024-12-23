@@ -1,6 +1,6 @@
 ### Hi there, I'm Natalia! 👋
 
-I'm a Frontend Developer always looking for new challenges. 🐱‍💻 I'm always trying to learn something new and to make new projects. Currently, I'm mostly working with Typescript, React, and Sass. 
+I'm a Software Developer always looking for new challenges. 🐱‍💻 I'm always trying to learn something new and to make new projects. Currently, I'm mostly working with Typescript, React, and Python. 
 
 You can get to know me better [here](https://www.linkedin.com/in/natalia-rodas-926523134/)
 
